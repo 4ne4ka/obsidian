@@ -1,0 +1,243 @@
+{
+  "main": {
+    "id": "b1c33c53a747cd5b",
+    "type": "split",
+    "children": [
+      {
+        "id": "e60e4964dd3c429e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c461320535dbf400",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Матлогика/Интерпретации и модели.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Интерпретации и модели"
+            }
+          },
+          {
+            "id": "d9f68715c0900d14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/Лекция 4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Лекция 4"
+            }
+          },
+          {
+            "id": "3ed4295bc507118f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Линев/Лекция 7.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Лекция 7"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5e16a3f2bed32716",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9c232bfe84363a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5dbc957cf98e46c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "41b1644c3bdbd5e6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "03554be13d6eaba2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3e4217bf46115fa6",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f391ef12d7c668b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c6d4923b11ec58d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "5942f9421327a127",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "ed0a9a2bf1dfe380",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e3e32316222c433c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3ed4295bc507118f",
+  "lastOpenFiles": [
+    "Линев/Лекция 1.md",
+    "Линев/Лекция 8.md",
+    "Линев/Лекция 7.5 RISC-V.md",
+    "Линев/Лекция 7.md",
+    "Линев/Лекция 6.md",
+    "Линев/Лекция 5.md",
+    "Линев/Лекция 4.md",
+    "Линев/Лекция 3.md",
+    "Линев/Лекция 2.md",
+    "Линев.md",
+    "Линев/3.md",
+    "Линев/2.md",
+    "Линев/1.md",
+    "Линев",
+    "Java/Лекция 3.md",
+    "Java/Лекция 4.md",
+    "Матлогика/Интерпретации и модели.md",
+    "Матлогика/Интерпретации и модели 2.md",
+    "Java/Лекция 2.md",
+    "Java/Лекция 1.md",
+    "Конспекты видео по ЭВМ/4.md",
+    "Конспекты видео по ЭВМ/2.md",
+    "Конспекты видео по ЭВМ/1.md",
+    "Java",
+    "Untitled.canvas",
+    "хуйня",
+    "Матлогика",
+    "Untitled.base",
+    "Конспекты видео по ЭВМ/3.md",
+    "Pasted image 20250907160819.png",
+    "Pasted image 20250910182709.png",
+    "АРХИТЕКТУРА ВЫЧИСЛИТЕЛЬНЫХ СИСТЕМ/ТЕМА 1.md",
+    "АРХИТЕКТУРА ВЫЧИСЛИТЕЛЬНЫХ СИСТЕМ/ТЕМА 2.md",
+    "Путь к звездам/Устройство компьютера.md",
+    "Сравнение RISC и CISC.png",
+    "Конспекты видео по ЭВМ",
+    "Pasted image 20250910185850.png",
+    "Pasted image 20250910185823.png",
+    "Pasted image 20250910185820.png",
+    "Pasted image 20250910185046.png",
+    "Pasted image 20250910185038.png",
+    "Pasted image 20250910184712.png",
+    "Pasted image 20250910184649.png",
+    "Папка для Линева",
+    "Путь к звездам",
+    "CMAKE",
+    "АРХИТЕКТУРА ВЫЧИСЛИТЕЛЬНЫХ СИСТЕМ",
+    "Алгоритмы/Untitled.canvas"
+  ]
+}
