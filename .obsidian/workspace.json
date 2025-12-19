@@ -13,58 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Лекция 4.md",
+                "file": "Линев/Лекция 7 со слайдами.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Лекция 4"
-            }
-          },
-          {
-            "id": "3ed4295bc507118f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Линев/Лекция 8.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Лекция 8"
-            }
-          },
-          {
-            "id": "5171a18e2c29d268",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Линев/2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2"
-            }
-          },
-          {
-            "id": "0c2ebbd2c9415ed7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Линев/Лекция 14.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Лекция 14"
+              "title": "Лекция 7 со слайдами"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -203,41 +160,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0c2ebbd2c9415ed7",
+  "active": "d9f68715c0900d14",
   "lastOpenFiles": [
-    "Линев/Лекция 13.md",
+    "Линев/Лекция 7.md",
+    "Линев/Лекция 7 со слайдами.md",
+    "Линев/Лекция 6.md",
+    "Линев/Лекция 5.md",
+    "Линев/Лекция 5.1 КОНФЛИКТЫ.md",
+    "Линев/Лекция 4.md",
+    "Линев/Лекция 7.5 RISC-V.md",
+    "Линев/Лекция RISC-V.md",
+    "Линев/БИЛЕТЫ.md",
+    "Линев/Лекция 3.md",
+    "Линев/ОГЛАВЛЕНИЕ.md",
+    "Линев/Лекция 1.md",
+    "Линев/Лекция 2.md",
+    "Линев/Линев.md",
+    "Линев/%% Waypoint %%.md",
+    "Линев/Лекция 9.md",
+    "Untitled.base",
+    "Untitled 2.base",
+    "Untitled 3.canvas",
+    "2025-12-18.md",
+    "Java/Лекция 4.md",
+    "Линев/2.md",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Untitled 1.base",
+    "Линев/Лекция 8.md",
+    "Untitled.canvas",
     "Линев/Лекция 14.md",
+    "Линев/Лекция 13.md",
     "Линев/Лекция 12.md",
     "Линев/4.md",
     "Линев/3.md",
     "Линев/1.md",
     "Pasted image 20251124150653.png",
-    "Линев/Лекция RISC-V.md",
-    "Линев/Лекция 9.md",
-    "Линев/Лекция 11.md",
-    "Линев/Лекция 10 кеш.md",
-    "Линев/Лекция 10 Томасуло.md",
-    "Линев/Лекция 8.md",
-    "Линев/Лекция 7.md",
-    "Линев/Лекция 1.md",
-    "Линев/Лекция 7.5 RISC-V.md",
-    "Линев/Лекция 6.md",
-    "Линев/Лекция 5.md",
-    "Линев/Лекция 4.md",
-    "Линев/Лекция 3.md",
-    "Линев/Лекция 2.md",
-    "Линев.md",
-    "Линев/2.md",
     "Линев",
-    "Java/Лекция 3.md",
-    "Java/Лекция 4.md",
-    "Матлогика/Интерпретации и модели.md",
-    "Матлогика/Интерпретации и модели 2.md",
     "Java",
-    "Untitled.canvas",
     "хуйня",
     "Матлогика",
-    "Untitled.base",
     "Pasted image 20250907160819.png",
     "Pasted image 20250910182709.png",
     "Сравнение RISC и CISC.png",
@@ -250,8 +212,6 @@
     "Pasted image 20250910184712.png",
     "Папка для Линева",
     "Путь к звездам",
-    "CMAKE",
-    "АРХИТЕКТУРА ВЫЧИСЛИТЕЛЬНЫХ СИСТЕМ",
     "Алгоритмы/Untitled.canvas"
   ]
 }
