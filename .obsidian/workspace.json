@@ -8,49 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b71e33e0ba272101",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Линев 2/Лекция 13.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Лекция 13"
-            }
-          },
-          {
-            "id": "a9c384c7a02ed1d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Линев 2/Вопросы.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Вопросы"
-            }
-          },
-          {
             "id": "31264a9d85b42d95",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Сыса/Лекция 2 2.md",
+                "file": "Сыса/сбор сысы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Лекция 2 2"
+              "title": "сбор сысы"
+            }
+          },
+          {
+            "id": "a60e02a318f9d1be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Сыса/Табилцы.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Табилцы"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3e4217bf46115fa6",
@@ -198,13 +185,17 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "31264a9d85b42d95",
+  "active": "a60e02a318f9d1be",
   "lastOpenFiles": [
+    "Сыса/Лекция 4.md",
+    "Сыса/Табилцы.md",
+    "Сыса/Лекция 3.md",
     "Сыса/Лекция 2.md",
     "Сыса/Лекция 2 2.md",
     "Сыса/Лекция 1.md",
-    "Сыса/Лекция 3.md",
-    "Сыса/Лекция 4.md",
+    "Сыса/сбор сысы.md",
+    "Линев 2/Вопросы.md",
+    "Линев 2/Лекция 13.md",
     "Линев 3/Лекция 1.md",
     "Сыса",
     "Собес.md",
@@ -216,7 +207,6 @@
     "2025-12-18.md",
     "Без названия.md",
     "Линев 2/Вопросы по билетам.md",
-    "Линев 2/Вопросы.md",
     "Линев 2/Билеты.md",
     "Линев 2/Билеты 2.md",
     "Линев 2 короче/Лекция 7.md",
@@ -227,9 +217,6 @@
     "Линев 2 короче/Лекция 4.md",
     "Линев 2/Лекция 3.md",
     "Линев 2 короче/Лекция 11.md",
-    "Линев 2/Лекция 13.md",
-    "Линев 2/Лекция 11.md",
-    "Линев 2/Лекция 10.md",
     "Линев 2/Без названия",
     "Линев 2 короче",
     "АиСД",
